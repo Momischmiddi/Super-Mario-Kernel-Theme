@@ -1,0 +1,11 @@
+C:\Users\morit\Desktop\KernelMarioPlayer\KernelMarioPlayer\KernelMarioPlayer\bin\Debug\netcoreapp2.0\KernelMarioPlayer.deps.json
+C:\Users\morit\Desktop\KernelMarioPlayer\KernelMarioPlayer\KernelMarioPlayer\bin\Debug\netcoreapp2.0\KernelMarioPlayer.runtimeconfig.json
+C:\Users\morit\Desktop\KernelMarioPlayer\KernelMarioPlayer\KernelMarioPlayer\bin\Debug\netcoreapp2.0\KernelMarioPlayer.runtimeconfig.dev.json
+C:\Users\morit\Desktop\KernelMarioPlayer\KernelMarioPlayer\KernelMarioPlayer\bin\Debug\netcoreapp2.0\KernelMarioPlayer.dll
+C:\Users\morit\Desktop\KernelMarioPlayer\KernelMarioPlayer\KernelMarioPlayer\bin\Debug\netcoreapp2.0\KernelMarioPlayer.pdb
+C:\Users\morit\Desktop\KernelMarioPlayer\KernelMarioPlayer\KernelMarioPlayer\obj\Debug\netcoreapp2.0\KernelMarioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\morit\Desktop\KernelMarioPlayer\KernelMarioPlayer\KernelMarioPlayer\obj\Debug\netcoreapp2.0\KernelMarioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\morit\Desktop\KernelMarioPlayer\KernelMarioPlayer\KernelMarioPlayer\obj\Debug\netcoreapp2.0\KernelMarioPlayer.AssemblyInfoInputs.cache
+C:\Users\morit\Desktop\KernelMarioPlayer\KernelMarioPlayer\KernelMarioPlayer\obj\Debug\netcoreapp2.0\KernelMarioPlayer.AssemblyInfo.cs
+C:\Users\morit\Desktop\KernelMarioPlayer\KernelMarioPlayer\KernelMarioPlayer\obj\Debug\netcoreapp2.0\KernelMarioPlayer.dll
+C:\Users\morit\Desktop\KernelMarioPlayer\KernelMarioPlayer\KernelMarioPlayer\obj\Debug\netcoreapp2.0\KernelMarioPlayer.pdb
